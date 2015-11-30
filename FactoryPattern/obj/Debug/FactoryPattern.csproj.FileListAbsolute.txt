@@ -1,0 +1,7 @@
+C:\GithubProjects\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csprojResolveAssemblyReference.cache
+C:\GithubProjects\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe
+C:\GithubProjects\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.pdb
+C:\GithubProjects\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.exe
+C:\GithubProjects\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb
+C:\GithubProjects\FactoryPattern\FactoryPattern\bin\Debug\Ninject.dll
+C:\GithubProjects\FactoryPattern\FactoryPattern\bin\Debug\Ninject.xml
