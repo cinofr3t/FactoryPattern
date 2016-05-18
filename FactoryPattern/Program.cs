@@ -58,7 +58,7 @@ namespace FactoryPattern
 
             /**
              * Task 3
-             * Using DI container (NUnit)
+             * Using DI container (Unity)
              * We use DI container's so we dont have to keep writting manual DI code
              * First we create a our bindings, I have done this in ProgramModule
              * by binding the interface to the concrete class.
