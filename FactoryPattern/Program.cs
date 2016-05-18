@@ -72,7 +72,7 @@ namespace FactoryPattern
             IAnimal animalFromKernel = programHanderFromKernel.CreateAnimal();
 
             /**
-             * Rlection
+             * Reflection
              * This is just a basic explanation of reflection,
              * it is when an object checks it's own metadata for information
              * in order to be able to carry out some sort of behaviour.
